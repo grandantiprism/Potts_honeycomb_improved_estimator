@@ -20,7 +20,7 @@ struct Config {
     const int beta_num = 20;
     
     const int n_warmup = 5000;
-    const int n_measure = 10000;
+    const int n_measure = 1000000;
     const uint32_t seed = 12345;
 };
 
@@ -125,7 +125,7 @@ int main() {
         }
 
         double abs_m = sum_m / conf.n_measure;
-        double m2_imp = ((double)(conf.q - 1) / conf.q) * (sum_s / (conf.n_measure * total_sites));
+        double m2_imp = ((double)(conf.q - 1) / conf.q) * (sum_s / ((double)conf.n_measure * total_sites));
         double m4_naive = sum_m4 / conf.n_measure;
         double binder = m4_naive / (m2_imp * m2_imp);
 

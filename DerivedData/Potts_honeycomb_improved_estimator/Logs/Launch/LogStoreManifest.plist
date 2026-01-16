@@ -67,6 +67,67 @@
 			<key>uniqueIdentifier</key>
 			<string>BCDDEF75-4634-4CDB-90EF-149F0BC214F7</string>
 		</dict>
+		<key>D2E26715-D0C1-44C1-A46F-22BCA55BBBE2</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>0C2C549B-DA10-466A-ADEA-FB9F9E093FD2</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Potts_honeycomb_improved_estimator-2026.01.16_04-21-23-+0900.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Potts_honeycomb_improved_estimator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Potts_honeycomb_improved_estimator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Potts_honeycomb_improved_estimator</string>
+			<key>timeStartedRecording</key>
+			<real>790197683.07476294</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Potts_honeycomb_improved_estimator</string>
+			<key>uniqueIdentifier</key>
+			<string>D2E26715-D0C1-44C1-A46F-22BCA55BBBE2</string>
+		</dict>
 	</dict>
 </dict>
 </plist>
