@@ -1,2 +1,8 @@
 L=128, beta_min=1.604, beta_max=1.614, beta_num=20, n_measure=5000, total_time=194.01s
 L=128, beta_min=1.604, beta_max=1.614, beta_num=20, n_measure=1000000, total_time=21231.78s
+L=128, beta_min=1.604, beta_max=1.614, beta_num=20, n_measure=1000000, total_time=21327.46s
+L=32, beta_min=1.604, beta_max=1.614, beta_num=20, n_measure=1000000, total_time=2138.39s
+L=16, beta_min=1.604, beta_max=1.614, beta_num=20, n_measure=1000000, total_time=728.93s
+L=8, beta_min=1.604, beta_max=1.614, beta_num=20, n_measure=1000000, total_time=214.34s
+L=4, beta_min=1.604, beta_max=1.614, beta_num=20, n_measure=1000000, total_time=82.18s
+L=64, beta_min=1.604, beta_max=1.614, beta_num=20, n_measure=1000000, total_time=7114.30s

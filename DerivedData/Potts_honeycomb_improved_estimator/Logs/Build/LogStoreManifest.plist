@@ -6,6 +6,48 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
+		<key>03F70230-B8A6-47C5-A4EA-264DA97CC330</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>03F70230-B8A6-47C5-A4EA-264DA97CC330.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Potts_honeycomb_improved_estimator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Potts_honeycomb_improved_estimator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Potts_honeycomb_improved_estimator</string>
+			<key>timeStartedRecording</key>
+			<real>790267692.62166405</real>
+			<key>timeStoppedRecording</key>
+			<real>790267693.80444205</real>
+			<key>title</key>
+			<string>Build Potts_honeycomb_improved_estimator</string>
+			<key>uniqueIdentifier</key>
+			<string>03F70230-B8A6-47C5-A4EA-264DA97CC330</string>
+		</dict>
 		<key>0C2C549B-DA10-466A-ADEA-FB9F9E093FD2</key>
 		<dict>
 			<key>className</key>
@@ -89,6 +131,216 @@
 			<string>Build Potts_honeycomb_improved_estimator</string>
 			<key>uniqueIdentifier</key>
 			<string>5C6D09B8-225A-484A-974D-FF0777471C12</string>
+		</dict>
+		<key>5ECA48E7-2D69-4BC9-8DF5-7AC2A29DECB3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5ECA48E7-2D69-4BC9-8DF5-7AC2A29DECB3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Potts_honeycomb_improved_estimator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Potts_honeycomb_improved_estimator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Potts_honeycomb_improved_estimator</string>
+			<key>timeStartedRecording</key>
+			<real>790265292.85780096</real>
+			<key>timeStoppedRecording</key>
+			<real>790265294.42439306</real>
+			<key>title</key>
+			<string>Build Potts_honeycomb_improved_estimator</string>
+			<key>uniqueIdentifier</key>
+			<string>5ECA48E7-2D69-4BC9-8DF5-7AC2A29DECB3</string>
+		</dict>
+		<key>62D0A151-DA80-430C-9B98-949EF3C14043</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>62D0A151-DA80-430C-9B98-949EF3C14043.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Potts_honeycomb_improved_estimator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Potts_honeycomb_improved_estimator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Potts_honeycomb_improved_estimator</string>
+			<key>timeStartedRecording</key>
+			<real>790241726.42055297</real>
+			<key>timeStoppedRecording</key>
+			<real>790241727.84700799</real>
+			<key>title</key>
+			<string>Build Potts_honeycomb_improved_estimator</string>
+			<key>uniqueIdentifier</key>
+			<string>62D0A151-DA80-430C-9B98-949EF3C14043</string>
+		</dict>
+		<key>8D7C6E66-5F0E-47E0-8004-D0BE5F5E8C66</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8D7C6E66-5F0E-47E0-8004-D0BE5F5E8C66.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Potts_honeycomb_improved_estimator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Potts_honeycomb_improved_estimator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Potts_honeycomb_improved_estimator</string>
+			<key>timeStartedRecording</key>
+			<real>790268789.42039299</real>
+			<key>timeStoppedRecording</key>
+			<real>790268790.91659498</real>
+			<key>title</key>
+			<string>Build Potts_honeycomb_improved_estimator</string>
+			<key>uniqueIdentifier</key>
+			<string>8D7C6E66-5F0E-47E0-8004-D0BE5F5E8C66</string>
+		</dict>
+		<key>A698FBF0-B953-4736-BC2F-63E01BE73316</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A698FBF0-B953-4736-BC2F-63E01BE73316.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Potts_honeycomb_improved_estimator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Potts_honeycomb_improved_estimator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Potts_honeycomb_improved_estimator</string>
+			<key>timeStartedRecording</key>
+			<real>790268909.84541094</real>
+			<key>timeStoppedRecording</key>
+			<real>790268911.02874506</real>
+			<key>title</key>
+			<string>Build Potts_honeycomb_improved_estimator</string>
+			<key>uniqueIdentifier</key>
+			<string>A698FBF0-B953-4736-BC2F-63E01BE73316</string>
+		</dict>
+		<key>F581D98C-5CD1-4C62-90EA-9B568C70F1BC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F581D98C-5CD1-4C62-90EA-9B568C70F1BC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Potts_honeycomb_improved_estimator project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Potts_honeycomb_improved_estimator</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Potts_honeycomb_improved_estimator</string>
+			<key>timeStartedRecording</key>
+			<real>790268560.22151697</real>
+			<key>timeStoppedRecording</key>
+			<real>790268561.52107894</real>
+			<key>title</key>
+			<string>Build Potts_honeycomb_improved_estimator</string>
+			<key>uniqueIdentifier</key>
+			<string>F581D98C-5CD1-4C62-90EA-9B568C70F1BC</string>
 		</dict>
 	</dict>
 </dict>

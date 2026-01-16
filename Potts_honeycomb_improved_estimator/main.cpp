@@ -12,7 +12,7 @@
 using namespace std;
 
 struct Config {
-    const int L = 128;               // 格子の一辺 (N = L*L)
+    const int L = 64;               // 格子の一辺 (N = L*L)
     const int q = 4;                // Potts状態数
     
     const double beta_min = 1.604;
